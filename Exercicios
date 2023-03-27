@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T20:54:55.876Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UDEnmhUDEFGgSnhyZDNs" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T20:58:08.460Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qzliqKurcRouvP7Kmrn8" version="21.1.1" type="github">
   <diagram name="Página-1" id="jecvzf32Cxs4KSbHReoh">
     <mxGraphModel dx="1589" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="Q5Sbi-07ZdVuDRZnhjGV-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q5Sbi-07ZdVuDRZnhjGV-56" target="Q5Sbi-07ZdVuDRZnhjGV-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Sbi-07ZdVuDRZnhjGV-56" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;A = 3,5, B = 7,5&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="Q5Sbi-07ZdVuDRZnhjGV-56" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;A, B&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="260" y="695.95" width="160" height="81.25" as="geometry" />
         </mxCell>
         <mxCell id="Q5Sbi-07ZdVuDRZnhjGV-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q5Sbi-07ZdVuDRZnhjGV-57" target="Q5Sbi-07ZdVuDRZnhjGV-58" edge="1">
@@ -166,7 +166,7 @@
         <mxCell id="e-JSMZH3mM7lJj0zljiX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e-JSMZH3mM7lJj0zljiX-3" target="e-JSMZH3mM7lJj0zljiX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e-JSMZH3mM7lJj0zljiX-3" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;A = 2, B = 3, C = 5&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="e-JSMZH3mM7lJj0zljiX-3" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;A, B, C&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="270" y="850" width="210" height="81.25" as="geometry" />
         </mxCell>
         <mxCell id="e-JSMZH3mM7lJj0zljiX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e-JSMZH3mM7lJj0zljiX-5" target="e-JSMZH3mM7lJj0zljiX-6" edge="1">
